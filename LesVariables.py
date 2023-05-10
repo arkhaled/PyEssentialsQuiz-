@@ -1,3 +1,12 @@
+ """
+  By : Khaled ARARIA  
+       PhD student at SBA
+       Department of Electrical Engineering
+      Faculty of Electrical Engineering
+       Djillali Liabes University of Sidi Bel Abbes. 22000. Algeria.
+       Laboratoire ICEPS (Intelligent Control & Electrical Power Systems)
+       E-mail : kaled.araria@univ-sba.dz
+"""
 # - Exercice : 
 #  Ecrire un programme python qui demande à saisir la longueur et la largeur d'un rectancle, calcule et affiche
 #  son périmètre et sa surface.
