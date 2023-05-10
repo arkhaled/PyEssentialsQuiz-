@@ -6,8 +6,8 @@
            Djillali Liabes University of Sidi Bel Abbes. 22000. Algeria.
            Laboratoire ICEPS (Intelligent Control & Electrical Power Systems)
            E-mail : kaled.araria@univ-sba.dz
-           
-> **Introduction** 
+ #        
+# **Introduction** 
 
 Python est un langage de programmation interprété de haut niveau qui met l'accent sur la simplicité, la lisibilité et la facilité d'utilisation. Sa syntaxe est conçue pour être facile à comprendre et à suivre, ce qui en fait un bon langage pour les débutants. Certaines des principales caractéristiques de Python incluent sa capacité à gérer plusieurs paradigmes de programmation (comme la programmation orientée objet, procédurale et fonctionnelle), sa bibliothèque standard étendue et sa grande communauté de développeurs active.
 
